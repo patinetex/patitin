@@ -116,6 +116,13 @@ header .header-content .header-content-inner p {
   /*   background-color: #222; */
 }
 
+ .content-4{
+    padding: 20px 0 40px;
+    text-align: center;
+    background-color: #222; 
+    color: white;
+ }
+
 .promo,
 .promo h3,
 .promo a:link,
@@ -182,7 +189,7 @@ header .header-content .header-content-inner p {
 	font-weight: 300;
 	}
 	
-.content-3 .glyphicon,	
+.content-3 .glyphicon,	.content-4 .glyphicon,
 .page-footer .contact .glyphicon {
 	font-size: 32px;
 	font-weight: 700;
@@ -459,6 +466,4 @@ img::-moz-selection {
     padding-top: 27px;
 }
 
-.price4{
 
-}

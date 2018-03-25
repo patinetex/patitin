@@ -152,6 +152,10 @@ header .header-content .header-content-inner p {
     vertical-align: middle;
 }
 
+h3{
+    font-size: 19px;
+}
+
 .item-1 {
 	background: url('http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-08-1442.jpg');
 	}

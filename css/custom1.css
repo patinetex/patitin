@@ -179,7 +179,9 @@ h3{
 	}
 
 .page-footer {
-	text-align: center;
+    text-align: center;
+    border-top: 1px solid #B0C4DE;
+    margin-top: 20px;
 	}
 
 .page-footer .contact {

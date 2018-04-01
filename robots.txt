@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /googlec3f78600c9af76ef/
 Disallow: /CNAME/
-Allow: /review.html
+Allow: /review
 Sitemap: https://www.scooterxiaomi.com/sitemap.xml

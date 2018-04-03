@@ -28,7 +28,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url('http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-04-01-1442.jpg');
+    background-image: url("http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-04-01-1442.jpg");
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -54,10 +54,10 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(255,255,255,.7);
+    color: rgba(255, 255, 255, 0.7);
 }
 
-@media(min-width:768px) {
+@media (min-width: 768px) {
     header {
         min-height: 100%;
     }
@@ -77,9 +77,9 @@ header .header-content .header-content-inner p {
         max-width: 1000px;
     }
 
-	header .header-content .header-content-inner h1 {
-    	font-size: 62px;
-		}
+    header .header-content .header-content-inner h1 {
+        font-size: 62px;
+    }
 
     header .header-content .header-content-inner p {
         margin-right: auto;
@@ -95,7 +95,7 @@ header .header-content .header-content-inner p {
 }
 
 .intro {
-	color: #fff;
+    color: #fff;
     background-color: #ff6700;
     padding: 70px 0;
     text-align: center;
@@ -106,22 +106,23 @@ header .header-content .header-content-inner p {
 }
 
 .content-2 {
-	color: #fff;
+    color: #fff;
     background-color: #222;
 }
 
 .content-3 {
-	padding: 20px 0 40px;
-    text-align: center;
-  /*   background-color: #222; */
-}
-
- .content-4{
     padding: 20px 0 40px;
     text-align: center;
-    background-color: #222; 
+
+    /*   background-color: #222; */
+}
+
+.content-4 {
+    padding: 20px 0 40px;
+    text-align: center;
+    background-color: #222;
     color: white;
- }
+}
 
 .promo,
 .promo h3,
@@ -130,7 +131,7 @@ header .header-content .header-content-inner p {
 .promo a:hover,
 .promo a:active {
     color: white;
-	text-shadow: 0px 0px 40px black;
+    text-shadow: 0px 0px 40px black;
     text-decoration: none;
 }
 
@@ -141,8 +142,8 @@ header .header-content .header-content-inner p {
 }
 
 .promo-item:hover {
-    background-size: 110%; 
-    border: 10px solid rgba(255,255,255,0.3);
+    background-size: 110%;
+    border: 10px solid rgba(255, 255, 255, 0.3);
     line-height: 160px;
 }
 
@@ -152,66 +153,67 @@ header .header-content .header-content-inner p {
     vertical-align: middle;
 }
 
-h3{
+h3 {
     font-size: 19px;
 }
 
 .item-1 {
-	background: url('http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-08-1442.jpg');
-	}
-	
-.item-2 {
-	background: url('http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-10-c.jpg');
-	}
-	
-.item-3 {
-	background: url('http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-11-1442.jpg');
-	}
-		
-.item-1{
-    background-size: cover;
-	background-position: 50% 27%;
+    background: url("http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-08-1442.jpg");
 }
+
+.item-2 {
+    background: url("http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-10-c.jpg");
+}
+
+.item-3 {
+    background: url("http://i01.appmifile.com/webfile/globalimg/en/goods/mi-electronic-scooter/scooter-11-1442.jpg");
+}
+
+.item-1 {
+    background-size: cover;
+    background-position: 50% 27%;
+}
+
 .item-2,
 .item-3 {
-	background-size: cover;
-	background-position: 50% 50%;
-	}
+    background-size: cover;
+    background-position: 50% 50%;
+}
 
 .page-footer {
     text-align: center;
     border-top: 1px solid #B0C4DE;
     margin-top: 20px;
-	}
+}
 
 .page-footer .contact {
-	padding: 100px 0;
-	background-color: #ff6700;
-	color: #fff;
-	}
+    padding: 100px 0;
+    background-color: #ff6700;
+    color: #fff;
+}
 
 .page-footer .contact p {
-	font-size: 22px;
-	font-weight: 300;
-	}
-	
-.content-3 .glyphicon,	.content-4 .glyphicon,
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.content-3 .glyphicon, .content-4 .glyphicon,
 .page-footer .contact .glyphicon {
-	font-size: 32px;
-	font-weight: 700;
-	}
-		
+    font-size: 32px;
+    font-weight: 700;
+}
+
 .page-footer .small-print {
-	padding: 50px 0 40px;
-	font-weight: 300;
-	}
+    padding: 50px 0 40px;
+    font-weight: 300;
+}
 
 .text-light {
-    color: rgba(255,255,255,.7);
+    color: rgba(255, 255, 255, 0.7);
 }
 
 .navbar-default {
-    border-color: rgba(34,34,34,.05);
+    border-color: rgba(34, 34, 34, 0.05);
     background-color: #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -227,35 +229,35 @@ h3{
     color: #eb3812;
 }
 
-.navbar-default .nav > li>a,
-.navbar-default .nav>li>a:focus {
+.navbar-default .nav > li > a,
+.navbar-default .nav > li > a:focus {
     color: #222;
 }
 
-.navbar-default .nav > li>a:hover,
-.navbar-default .nav>li>a:focus:hover {
+.navbar-default .nav > li > a:hover,
+.navbar-default .nav > li > a:focus:hover {
     color: #ff6700;
 }
 
-.navbar-default .nav > li.active>a,
-.navbar-default .nav>li.active>a:focus {
-    color: #ff6700!important;
+.navbar-default .nav > li.active > a,
+.navbar-default .nav > li.active > a:focus {
+    color: #ff6700 !important;
     background-color: transparent;
 }
 
-.navbar-default .nav > li.active>a:hover,
-.navbar-default .nav>li.active>a:focus:hover {
+.navbar-default .nav > li.active > a:hover,
+.navbar-default .nav > li.active > a:focus:hover {
     background-color: transparent;
 }
 
-@media(min-width:768px) {
+@media (min-width: 768px) {
     .navbar-default {
-        border-color: rgba(255,255,255,.3);
+        border-color: rgba(255, 255, 255, 0.3);
         background-color: transparent;
     }
 
     .navbar-default .navbar-header .navbar-brand {
-        color: rgba(255,255,255,.7);
+        color: rgba(255, 255, 255, 0.7);
         letter-spacing: 0.5em;
     }
 
@@ -264,20 +266,20 @@ h3{
         color: #fff;
     }
 
-    .navbar-default .nav > li>a,
-    .navbar-default .nav>li>a:focus {
-        color: rgba(255,255,255,.7);
+    .navbar-default .nav > li > a,
+    .navbar-default .nav > li > a:focus {
+        color: rgba(255, 255, 255, 0.7);
     }
 
-    .navbar-default .nav > li>a:hover,
-    .navbar-default .nav>li>a:focus:hover {
+    .navbar-default .nav > li > a:hover,
+    .navbar-default .nav > li > a:focus:hover {
         color: #fff;
     }
 
     .navbar-default.affix {
         border-color: #fff;
         background-color: #fff;
-        box-shadow: 0px 7px 20px 0px rgba(0,0,0,0.1);
+        box-shadow: 0px 7px 20px 0px rgba(0, 0, 0, 0.1);
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
@@ -290,13 +292,13 @@ h3{
         color: #eb3812;
     }
 
-    .navbar-default.affix .nav > li>a,
-    .navbar-default.affix .nav>li>a:focus {
+    .navbar-default.affix .nav > li > a,
+    .navbar-default.affix .nav > li > a:focus {
         color: #222;
     }
 
-    .navbar-default.affix .nav > li>a:hover,
-    .navbar-default.affix .nav>li>a:focus:hover {
+    .navbar-default.affix .nav > li > a:hover,
+    .navbar-default.affix .nav > li > a:focus:hover {
         color: #ff6700;
     }
 }
@@ -408,7 +410,6 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
-
 .btn {
     border-radius: 300px;
     text-transform: uppercase;
@@ -448,28 +449,50 @@ img::-moz-selection {
     background-color: #ff6700;
 }
 
-.pt-15{
+.pt-15 {
     padding-top: 15px;
 }
 
-.pt-20{
+.pt-20 {
     padding-top: 20px;
 }
 
-.price{
+.price {
     font-size: 20px;
 }
 
-.price1{
+.price1 {
     padding-top: 10px;
 }
 
-.price2{
+.price2 {
     padding-top: 8px;
 }
 
-.price3{
+.price3 {
     padding-top: 27px;
 }
 
+.logo-gearbest {
+    width: 100px;
+}
 
+.logo-banggood {
+    width: 300px;
+}
+
+.logo-aliexpress {
+    width: 100px;
+}
+
+.logo-amazon {
+    width: 160px;
+}
+
+.card-18-rem {
+    width: 18rem;
+}
+
+.img-accesories {
+    width: 100px;
+}

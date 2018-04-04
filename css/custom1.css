@@ -466,7 +466,7 @@ img::-moz-selection {
 }
 
 .price2 {
-    padding-top: 8px;
+    padding-top: 24px;
 }
 
 .price3 {
@@ -478,11 +478,11 @@ img::-moz-selection {
 }
 
 .logo-banggood {
-    width: 300px;
+    width: 150px;
 }
 
 .logo-aliexpress {
-    width: 100px;
+    width: 200px;
 }
 
 .logo-amazon {
@@ -495,4 +495,9 @@ img::-moz-selection {
 
 .img-accesories {
     width: 100px;
+}
+
+.center{
+   width: 50%;
+  margin: 0 auto;
 }

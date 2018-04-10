@@ -1,1 +1,5 @@
-$('#siteNav').affix({offset:{top: 100}})
+$('#siteNav').affix({
+	offset: {
+		top: 100
+	}
+})

@@ -1,6 +1,1 @@
-// Offset for Site Navigation
-$('#siteNav').affix({
-	offset: {
-		top: 100
-	}
-})
+$('#siteNav').affix({offset:{top: 100}})
